@@ -1,6 +1,6 @@
 {
   "name": "tty-player",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Babel build ready fork",
   "main": "tty-player.js",
   "scripts": {

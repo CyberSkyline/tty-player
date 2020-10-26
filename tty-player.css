@@ -1,24 +1,7 @@
-.terminal {
+tty-player .terminal {
 	font-family: monospace, monospace;
 	cursor: text;
 	line-height: initial;
-}
-
-tty-player {
-	border: 2px solid #285577;
-	border-top: 1px solid #4c7899;
-}
-
-tty-player .title {
-	background: #285577;
-	border-bottom: 1px solid #4c7899;
-	color: #fff;
-	font-family: sans-serif;
-	font-weight: bold;
-	padding: 0.2em;
-	line-height: 1;
-	height: 1em;
-	cursor: default;
 }
 
 tty-player menu {
