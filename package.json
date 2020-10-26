@@ -1,0 +1,23 @@
+{
+  "name": "tty-player",
+  "version": "0.1.0",
+  "description": "Babel build ready fork",
+  "main": "tty-player.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyberSkyline/tty-player.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CyberSkyline/tty-player/issues"
+  },
+  "homepage": "https://github.com/CyberSkyline/tty-player#readme",
+  "dependencies": {
+    "term.js": "0.0.7",
+    "webcomponents-lite": "~0.6.0"
+  }
+}

@@ -1,3 +1,6 @@
+import 'webcomponents-lite';
+import Terminal from 'term.js/src/term.js';
+
 // W069 is “['x'] is better written in dot notation”, but Closure Compiler wants ['x'].
 // jshint -W069
 // jshint bitwise: false
